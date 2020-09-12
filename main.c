@@ -6,7 +6,7 @@
 
 
 #define LED 33
-#define LED_BLINKING_DELAY 400
+#define LED_BLINKING_DELAY 4000
 
 bme280_measurement_t reading;
 
